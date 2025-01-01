@@ -1,3 +1,4 @@
 # ApnaCollege-demo
-This is my first Github project
-Author-Athoi moni saha
+This is my first Github project.
+<br>
+Author-Athoi moni saha.
